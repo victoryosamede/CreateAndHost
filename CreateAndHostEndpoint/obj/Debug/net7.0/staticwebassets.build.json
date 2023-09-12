@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WNfL5tSEDiZH+pRofQa/xJkU6S33G+Eb/k+H4yQEGXE=",
+  "Source": "CreateAndHostEndpoint",
+  "BasePath": "_content/CreateAndHostEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
