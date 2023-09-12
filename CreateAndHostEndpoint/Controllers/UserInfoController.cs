@@ -10,7 +10,7 @@ namespace CreateAndHostEndpoint.Controllers
 
         
         [HttpGet]
-        public IActionResult GetInfo(string slackName, string track)
+        public IActionResult GetInfo(string slackName = "Victory Uhunmwangho", string track = "backend")
         {
 
             var userInfo = new UserInformation
